@@ -1,3 +1,9 @@
+/*
+Copyright (C) 2022 kumohakase (license: https://creativecommons.org/licenses/by/2.5/)
+Simple status monitor for linux
+Please consider supporting me using kofi.com https://ko-fi.com/kumohakase
+*/
+
 #define W_WIDTH 300
 #define W_HEIGHT 100
 #define GRAPH_COUNT (W_WIDTH / 2)
